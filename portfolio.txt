@@ -1,0 +1,5 @@
+Stock Portfolio:
+AAPL: 10 shares @ $180 each
+MSFT: 8 shares @ $300 each
+
+Total Investment: $4200
