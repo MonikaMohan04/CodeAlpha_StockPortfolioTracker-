@@ -7,13 +7,12 @@ A simple Python-based stock portfolio tracker that allows users to calculate the
 Stock Portfolio Tracker is a beginner-friendly Python project that runs in the terminal. Users can enter stock symbols and quantities, and the program calculates the total investment value based on hardcoded stock prices. The portfolio details can also be saved into a text file for future reference.
 
 ✨ Features
-Feature	Details
-📊 Predefined Stock Prices	Supports AAPL, TSLA, GOOGL, and MSFT
-➕ Multiple Stock Entries	Add multiple stocks and quantities
-✅ Input Validation	Rejects invalid stock names and incorrect quantity inputs
-💰 Total Investment Calculator	Automatically calculates portfolio value
-📁 File Saving Option	Save portfolio details into portfolio.txt
-🔄 User-Friendly Interface	Simple terminal-based interaction
+📊 Predefined Stock Prices -- Supports AAPL, TSLA, GOOGL, and MSFT
+➕ Multiple Stock Entries --	Add multiple stocks and quantities
+✅ Input Validation	-- Rejects invalid stock names and incorrect quantity inputs
+💰 Total Investment Calculator	-- Automatically calculates portfolio value
+📁 File Saving Option	-- Save portfolio details into portfolio.txt
+🔄 User-Friendly Interface	-- Simple terminal-based interaction
 🗂️ Folder Structure
 StockPortfolioTracker/
 │
